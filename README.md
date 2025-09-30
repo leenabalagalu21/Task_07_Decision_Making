@@ -58,10 +58,10 @@ This repository contains the full workflow, code, documentation, and reports for
 To reproduce this analysis:  
 1. Clone the repo.
 2. Run scripts in order:
-python code/step3_visualizations.py
-python code/step5_uncertainty.py
-python code/step6_sanity_checks.py
-python code/step8_robustness.py
+- python code/step3_visualizations.py
+- python code/step5_uncertainty.py
+- python code/step6_sanity_checks.py
+- python code/step8_robustness.py
 3. Compare outputs in results/ with the report.
 
 ---
